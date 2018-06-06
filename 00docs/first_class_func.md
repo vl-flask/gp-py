@@ -2,7 +2,7 @@
 
 Original [here](https://dbader.org/blog/python-first-class-functions).  
 
-# Basic Function and Usage
+## Basic Function and Usage
 Function [`yell(text)`](first_class_func/yell.py)
 ```python
 def yell(text):
